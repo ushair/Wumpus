@@ -1,0 +1,8 @@
+a wumpus world implementation using aima code and pygame.
+
+HOW TO RUN
+
+1. install pygame
+2. "python wumpus_world.py"
+
+author: Wu Zhe <wu@madk.org>
